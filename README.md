@@ -14,18 +14,33 @@
 
 # Categories
 
-| 1. [Agriculture](#Agriculture) | 3. [test3](#test3) |
-|-----------|----------|
-| 2. [test2](#test2) | oui |
+1. [Agriculture](#Agriculture)
+2. [test2](#test2)
 
 
 
 # Ouvrir un Dataset avec python
 
+## Fichier nc4
+
+```py
+import xarray as xr
+
+ds = xr.open_dataset('your/path/dataset.nc4')
+df = ds.to_dataframe()
+
+```
+
 
 
 # Agriculture
 
-## 1. 
+## 1. Food data - U.S. DEPARTMENT OF AGRICULTURE
 
-[Télécharger le dataset](https://store.pangaea.de/Publications/IizumiT_2019/gdhy_v1.2_v1.3_20190128.zip)
+[Télécharger le dataset](https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_csv_2021-04-28.zip)
+
+
+## 2. Données hyperspectrales et d'humidité d'un échantillon de sol en campagne Allemande
+
+[Télécharger le dataset](https://zenodo.org/record/2530634/files/felixriese/hyperspectral-soilmoisture-dataset-v1.0.3.zip?download=1)
+
