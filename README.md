@@ -62,6 +62,10 @@ df = pd.read_excel('your/path/dataset.xls(x)')
 
 ## 1. Food data - U.S. DEPARTMENT OF AGRICULTURE
 
+Aperçu du fichier "April 2021 (CSV – 216M)" :
+
+
+
 <p align="left"><a href="https://fdc.nal.usda.gov/download-datasets.html"><img src="https://user-images.githubusercontent.com/63207451/119182524-4d8ca380-ba73-11eb-8fb0-6e4a4c86d9c4.png" alt="Download" height="180"/></a></p>
 
 
