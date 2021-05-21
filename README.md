@@ -14,8 +14,8 @@
 
 # Categories
 
-|1. [Agriculture](#Agriculture)|3. [test3](#test3)|
-|2. [test2](#test2)|oui|
+| 1. [Agriculture](#Agriculture) | 3. [test3](#test3) |
+| 2. [test2](#test2) | oui |
 
 
 
