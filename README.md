@@ -23,8 +23,6 @@
 
 # Ouvrir un Dataset avec python
 
-<br/>
-
 ## Fichier nc4
 
 ```py
