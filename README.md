@@ -62,7 +62,7 @@ df = pd.read_excel('your/path/dataset.xls(x)')
 
 ## 1. Food data - U.S. DEPARTMENT OF AGRICULTURE
 
-<p align="left"><a href="https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_csv_2021-04-28.zip"><img src="https://user-images.githubusercontent.com/63207451/119182210-e969df80-ba72-11eb-81bc-1f10fe5a81da.png" alt="Download" height="120"/></a></p>
+<p align="left"><a href="https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_csv_2021-04-28.zip"><img src="https://user-images.githubusercontent.com/63207451/119182210-e969df80-ba72-11eb-81bc-1f10fe5a81da.png" alt="Download" height="150"/></a></p>
 
 
 <br/>
