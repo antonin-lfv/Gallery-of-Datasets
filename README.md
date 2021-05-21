@@ -14,6 +14,10 @@
 
 # Categories
 
+- [**Machine Learning**](#Machine-Learning)
+- [**Traitement du langage naturel**](#Traitement-du-langage-naturel)
+- [**Time series**](#Time-Series)
+- [**Big Data**](#Big-Data)
 - [**Agriculture**](#Agriculture)
 - [**Images**](#Images)
 - [**Climat et météo**](#Climat-et-météo)
