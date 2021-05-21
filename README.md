@@ -62,7 +62,7 @@ df = pd.read_excel('your/path/dataset.xls(x)')
 
 ## 1. Food data - U.S. DEPARTMENT OF AGRICULTURE
 
-<p align="center"><a href="https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_csv_2021-04-28.zip"><img src="https://user-images.githubusercontent.com/63207451/119153382-7c921d80-ba51-11eb-90d9-7791ee837ecf.png" alt="Download" height="38"/></a></p>
+<p align="left"><a href="https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_csv_2021-04-28.zip"><img src="https://user-images.githubusercontent.com/63207451/119153382-7c921d80-ba51-11eb-90d9-7791ee837ecf.png" alt="Download" height="50"/></a></p>
 
 
 <br/>
@@ -77,7 +77,7 @@ Aperçu :
 
 Le dataset est indexé sur la position géographique en lat-long, il contient beaucoup de valeurs NaN comme mentionné dans le ReadMe de ce dernier.
 
-<p align="center"><a href="https://zenodo.org/record/2530634/files/felixriese/hyperspectral-soilmoisture-dataset-v1.0.3.zip?download=1"><img src="https://user-images.githubusercontent.com/63207451/119153382-7c921d80-ba51-11eb-90d9-7791ee837ecf.png" alt="Download" height="38"/></a></p>
+<p align="left"><a href="https://zenodo.org/record/2530634/files/felixriese/hyperspectral-soilmoisture-dataset-v1.0.3.zip?download=1"><img src="https://user-images.githubusercontent.com/63207451/119153382-7c921d80-ba51-11eb-90d9-7791ee837ecf.png" alt="Download" height="50"/></a></p>
 
 	
 <br/>
