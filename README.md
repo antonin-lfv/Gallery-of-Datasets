@@ -6,7 +6,9 @@
 <br/>
 <br/>
 
-Vous trouverez ici plus de ?? Datasets dans diverses catégories. Toutes les catégories sont accessibles via le menu en dessous de cette introduction. Les Datasets sont tous open sources et gratuits, et ne nécessitent aucune autorisation. 
+<p align="center">
+	Vous trouverez ici plus de ?? <b>Datasets</b> dans diverses catégories. Toutes les catégories sont accessibles via le menu en dessous de cette introduction. Les Datasets sont tous open sources et gratuits, et ne nécessitent aucune autorisation. 
+		<p/>
 
 <br/>
 
