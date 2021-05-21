@@ -68,6 +68,13 @@ df = pd.read_excel('your/path/dataset.xls(x)')
 
 ## 2. Données hyperspectrales et d'humidité d'un échantillon de sol en campagne
 
+Aperçu :
+
+<p align="center">
+<img width="405" alt="Capture d’écran 2021-05-21 à 16 09 09" src="https://user-images.githubusercontent.com/63207451/119151112-5b303200-ba4f-11eb-905d-c24dad3fa739.png">
+	<p/>
+
+
 [Télécharger le dataset](https://zenodo.org/record/2530634/files/felixriese/hyperspectral-soilmoisture-dataset-v1.0.3.zip?download=1)
 
 <br/>
