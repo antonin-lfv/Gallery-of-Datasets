@@ -62,6 +62,9 @@ df = pd.read_excel('your/path/dataset.xls(x)')
 
 ## 1. Food data - U.S. DEPARTMENT OF AGRICULTURE
 
+<p align="center"><a href="#simulation-épidémiologique"><img src="https://user-images.githubusercontent.com/63207451/119153382-7c921d80-ba51-11eb-90d9-7791ee837ecf.png" alt="Download" height="29"/></a></p>
+
+
 [Télécharger le dataset](https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_csv_2021-04-28.zip)
 
 <br/>
