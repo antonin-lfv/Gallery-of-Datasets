@@ -34,7 +34,28 @@ df = ds.to_dataframe()
 ```
 <br/>
 
+## Fichier csv
+
+```py
+import pandas as pd
+
+df = pd.read_csv('your/path/dataset.csv')
+
+```
+
 <br/>
+
+## Fichier excel
+
+```py
+import pandas as pd
+
+df = pd.read_excel('your/path/dataset.xls(x)')
+
+```
+
+<br/>
+
 
 # Agriculture
 
