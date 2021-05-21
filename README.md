@@ -18,9 +18,12 @@
 2. [test2](#test2)
 
 
+<br/>
+<br/>
 
 # Ouvrir un Dataset avec python
 
+<br/>
 ## Fichier nc4
 
 ```py
@@ -30,8 +33,9 @@ ds = xr.open_dataset('your/path/dataset.nc4')
 df = ds.to_dataframe()
 
 ```
+<br/>
 
-
+<br/>
 
 # Agriculture
 
@@ -39,6 +43,7 @@ df = ds.to_dataframe()
 
 [Télécharger le dataset](https://fdc.nal.usda.gov/fdc-datasets/FoodData_Central_csv_2021-04-28.zip)
 
+<br/>
 
 ## 2. Données hyperspectrales et d'humidité d'un échantillon de sol en campagne Allemande
 
