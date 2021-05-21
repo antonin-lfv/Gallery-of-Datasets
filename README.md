@@ -14,8 +14,8 @@
 
 # Categories
 
-1. [Agriculture](#Agriculture)
-2. [test2](#test2)
+- [Agriculture](#Agriculture)
+- [test2](#test2)
 
 
 <br/>
