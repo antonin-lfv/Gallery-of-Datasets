@@ -67,7 +67,7 @@ df = pd.read_excel('your/path/dataset.xls(x)')
 
 <br/>
 
-## 2. Données hyperspectrales et d'humidité d'un échantillon de sol en campagne
+## 2. Données hyperspectrales d'un échantillon de sol en campagne
 
 Aperçu :
 
