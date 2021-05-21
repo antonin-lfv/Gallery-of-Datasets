@@ -15,7 +15,7 @@
 # Categories
 
 - [**Agriculture**](#Agriculture)
-- [**Biologie**](#Biologie)
+- [**Images**](#Images)
 - [**Climat et météo**](#Climat-et-météo)
 
 
@@ -85,7 +85,7 @@ Aperçu :
 	
 <br/>
 
-# Biologie
+# Images
 
 
 <br/>
