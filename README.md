@@ -75,7 +75,7 @@ Aperçu :
 <img width="405" alt="Capture d’écran 2021-05-21 à 16 09 09" src="https://user-images.githubusercontent.com/63207451/119151112-5b303200-ba4f-11eb-905d-c24dad3fa739.png">
 <p/>
 
-Le dataset est indexé sur la position géographique en lat-long, il contient beaucoup de valeurs NaN comme mentionné dans le ReadMe de ce dernier.
+Le dataset est indexé sur la position géographique en latitude-longitude, il contient beaucoup de valeurs NaN comme mentionné dans le ReadMe de ce dernier.
 
 <p align="left"><a href="https://zenodo.org/record/2530634/files/felixriese/hyperspectral-soilmoisture-dataset-v1.0.3.zip?download=1"><img src="https://user-images.githubusercontent.com/63207451/119155205-350c9100-ba53-11eb-9e4b-8198f9f6cca2.png" alt="Download" height="80"/></a></p>
 
