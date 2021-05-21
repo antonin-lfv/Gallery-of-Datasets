@@ -75,7 +75,8 @@ Aperçu :
 <img width="1210" alt="Capture d’écran 2021-05-21 à 16 54 37" src="https://user-images.githubusercontent.com/63207451/119157232-422a7f80-ba55-11eb-8c86-cc7fa64d920c.png">
 <p/>
 
-Il est composé d'une colonne avec la date, l'humidité de la parcelle, la température de la parcelle et les colonnes nommées 454 à 950 sont les longueures d'ondes utilisées en nanomètres. (il y en a 125)
+Il est composé d'une colonne avec la date, l'humidité de la parcelle, la température de la parcelle et les colonnes nommées 454 à 950 sont les longueures d'ondes utilisées en nanomètres par l'instrument de mesure. (il y en a 125)
+<br/>
 
 <p align="left"><a href="https://zenodo.org/record/2530634/files/felixriese/hyperspectral-soilmoisture-dataset-v1.0.3.zip?download=1"><img src="https://user-images.githubusercontent.com/63207451/119155205-350c9100-ba53-11eb-9e4b-8198f9f6cca2.png" alt="Download" height="80"/></a></p>
 
