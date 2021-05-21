@@ -13,10 +13,10 @@
 <br/>
 
 # Categories
-<b>
-- [Agriculture](#Agriculture)
-- [test2](#test2)
-</b>
+
+- [**Agriculture**](#Agriculture)
+- [**test2**](#test2)
+
 
 <br/>
 <br/>
