@@ -69,6 +69,13 @@ df = pd.read_csv('your/path/dataset.tsv', delimiter="\t")
 
 ```
 
+## Fichier dat
+```py
+import numpy as np
+# Il faut spécifier le nom des colonnes et choisir le bon séparateur
+df = pd.read_table('your/path/dataset.dat', names=['dat1', 'dat2'], sep=',' ,encoding='utf-8')
+```
+
 
 <br/>
 
@@ -90,6 +97,16 @@ Aperçu du dataset __title.ratings.tsv__ :
 Il y a 7 datasets tsv disponibles, les données sont mises à jour tous les jours.
 
 <p align="left"><a href="https://www.imdb.com/interfaces/"><img src="https://user-images.githubusercontent.com/63207451/119182524-4d8ca380-ba73-11eb-8fb0-6e4a4c86d9c4.png" alt="Download" height="180"/></a></p>
+
+## 3. Classification de bananes
+
+Aperçu du dataset complet : 
+
+<img width="408" alt="Capture d’écran 2021-05-22 à 17 52 19" src="https://user-images.githubusercontent.com/63207451/119232849-ef20fd00-bb26-11eb-97b6-de265991ac82.png">
+
+Le dataset est détaillé dans le fichier __header__.
+
+<p align="left"><a href="https://sci2s.ugr.es/keel/dataset.php?cod=182"><img src="https://user-images.githubusercontent.com/63207451/119182524-4d8ca380-ba73-11eb-8fb0-6e4a4c86d9c4.png" alt="Download" height="180"/></a></p>
 
 # Traitement du langage naturel
 
