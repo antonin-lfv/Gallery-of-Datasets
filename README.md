@@ -59,6 +59,15 @@ df = pd.read_excel('your/path/dataset.xls(x)')
 
 ```
 
+## Fichier tsv
+```py
+import pandas as pd
+
+df = pd.read_csv('your/path/dataset.tsv', delimiter="\t")
+
+```
+
+
 <br/>
 
 # Machine Learning
@@ -66,6 +75,7 @@ df = pd.read_excel('your/path/dataset.xls(x)')
 ## 2. IMDb Datasets
 
 Aperçu :
+
 <img width="1431" alt="Capture d’écran 2021-05-22 à 12 36 37" src="https://user-images.githubusercontent.com/63207451/119223539-5bd1d280-bafa-11eb-98df-069c1259bcf7.png">
 
 
