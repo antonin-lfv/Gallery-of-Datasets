@@ -103,7 +103,7 @@ Il y a 7 datasets tsv disponibles, les données sont mises à jour tous les jour
 
 Aperçu du dataset complet : 
 
-<img width="408" alt="Capture d’écran 2021-05-22 à 17 52 19" src="https://user-images.githubusercontent.com/63207451/119232849-ef20fd00-bb26-11eb-97b6-de265991ac82.png">
+<img width="408" alt="Capture d’écran 2021-05-22 à 18 24 12" src="https://user-images.githubusercontent.com/63207451/119233808-e9c5b180-bb2a-11eb-99bb-915d376301d8.png">
 
 Le dataset est détaillé dans le fichier __header__, dat1 et dat2 correspondent aux coordonnées des points x, y.
 
