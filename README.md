@@ -75,7 +75,7 @@ df = pd.read_csv('your/path/dataset.tsv', delimiter="\t")
 ```py
 import numpy as np
 # Il faut spécifier le nom des colonnes et choisir le bon séparateur
-df = pd.read_table('your/path/dataset.dat', names=['dat1', 'dat2'], sep=',' ,encoding='utf-8')
+df = pd.read_table('your/path/dataset.dat', names=['x1','x2','x3'], sep=',' ,encoding='utf-8')
 ```
 
 
@@ -105,7 +105,7 @@ Aperçu du dataset complet :
 
 <img width="408" alt="Capture d’écran 2021-05-22 à 18 24 12" src="https://user-images.githubusercontent.com/63207451/119233808-e9c5b180-bb2a-11eb-99bb-915d376301d8.png">
 
-Le dataset est détaillé dans le fichier __header__, dat1 et dat2 correspondent aux coordonnées des points x, y.
+Le dataset est détaillé dans le fichier __header__, dat1 et dat2 correspondent aux coordonnées des points x, y et class à la classe.
 
 <p align="left"><a href="https://sci2s.ugr.es/keel/dataset.php?cod=182"><img src="https://user-images.githubusercontent.com/63207451/119182524-4d8ca380-ba73-11eb-8fb0-6e4a4c86d9c4.png" alt="Download" height="180"/></a></p>
 
