@@ -66,9 +66,13 @@ df = pd.read_excel('your/path/dataset.xls(x)')
 
 ## 1. Food data - U.S. DEPARTMENT OF AGRICULTURE
 
-Aperçu du fichier "April 2021 (CSV – 216M)" :
+Aperçu du dataset __food_calorie_conversion_factor.csv__ du fichier "April 2021 (CSV – 216M)" :
 
+<p align="center">
+<img width="1431" alt="Capture d’écran 2021-05-22 à 12 20 54" src="https://user-images.githubusercontent.com/63207451/119223165-35129c80-baf8-11eb-8a1e-07e8d03fc15c.png">
+	<p/>
 
+Le fichier contient 35 Datasets csv qui sont tous détaillés dans le pdf joint avec.
 
 <p align="left"><a href="https://fdc.nal.usda.gov/download-datasets.html"><img src="https://user-images.githubusercontent.com/63207451/119182524-4d8ca380-ba73-11eb-8fb0-6e4a4c86d9c4.png" alt="Download" height="180"/></a></p>
 
