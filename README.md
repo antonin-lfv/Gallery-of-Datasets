@@ -106,7 +106,7 @@ Aperçu du dataset complet :
 
 <img width="408" alt="Capture d’écran 2021-05-22 à 17 52 19" src="https://user-images.githubusercontent.com/63207451/119232849-ef20fd00-bb26-11eb-97b6-de265991ac82.png">
 
-Le dataset est détaillé dans le fichier __header__.
+Le dataset est détaillé dans le fichier __header__, dat1 et dat2 correspondent aux coordonnées des points x, y.
 
 <p align="left"><a href="https://sci2s.ugr.es/keel/dataset.php?cod=182"><img src="https://user-images.githubusercontent.com/63207451/119182524-4d8ca380-ba73-11eb-8fb0-6e4a4c86d9c4.png" alt="Download" height="180"/></a></p>
 
