@@ -61,6 +61,13 @@ df = pd.read_excel('your/path/dataset.xls(x)')
 
 <br/>
 
+# Machine Learning
+
+# Traitement du langage naturel
+
+# Time series
+
+# Big data
 
 # Agriculture
 
