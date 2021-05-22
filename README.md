@@ -123,6 +123,11 @@ Aperçu :
 
 <img width="408" alt="Capture d’écran 2021-05-22 à 18 30 15" src="https://user-images.githubusercontent.com/63207451/119233994-ccddae00-bb2b-11eb-8526-f89dbcd26968.png">
 
+Le dataset renseigne sur la profondeur, les coordonnées géographiques et l'intensité sur l'échelle de Richter. 
+Exemple de plot :
+
+<img width="1426" alt="Capture d’écran 2021-05-22 à 23 16 19" src="https://user-images.githubusercontent.com/63207451/119240977-c105e200-bb53-11eb-885f-7aaf7dc59c4e.png">
+
 <p align="left"><a href="https://sci2s.ugr.es/keel/dataset.php?cod=75"><img src="https://user-images.githubusercontent.com/63207451/119182524-4d8ca380-ba73-11eb-8fb0-6e4a4c86d9c4.png" alt="Download" height="180"/></a></p>
 
 # Traitement du langage naturel
