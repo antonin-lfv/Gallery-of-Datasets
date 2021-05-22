@@ -74,10 +74,11 @@ df = pd.read_csv('your/path/dataset.tsv', delimiter="\t")
 
 ## 2. IMDb Datasets
 
-Aperçu :
+Aperçu du dataset __title.ratings.tsv__ :
 
 <img width="1431" alt="Capture d’écran 2021-05-22 à 12 36 37" src="https://user-images.githubusercontent.com/63207451/119223539-5bd1d280-bafa-11eb-98df-069c1259bcf7.png">
 
+Il y a 7 datasets tsv disponibles, les données sont mises à jour tous les jours.
 
 <p align="left"><a href="https://www.imdb.com/interfaces/"><img src="https://user-images.githubusercontent.com/63207451/119182524-4d8ca380-ba73-11eb-8fb0-6e4a4c86d9c4.png" alt="Download" height="180"/></a></p>
 
