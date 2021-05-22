@@ -95,3 +95,7 @@ Aperçu :
 # Climat et météo
 
 <br/>
+
+<br/>
+
+<p align="center"><a href="#simulation-épidémiologique"><img src="http://randojs.com/images/backToTopButton.png" alt="Haut de la page" height="29"/></a></p>
