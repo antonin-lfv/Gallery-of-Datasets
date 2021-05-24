@@ -27,7 +27,7 @@
 
 # Ouvrir un Dataset avec python
 
-## Fichier nc4
+## Fichier nc/nc4
 
 ```py
 import xarray as xr
