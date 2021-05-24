@@ -93,6 +93,10 @@ df = pd.read_table('your/path/dataset.dat', names=['x1','x2','x3'], sep=',' ,enc
 
 # Machine Learning
 
+Datasets de [classifications](https://sci2s.ugr.es/keel/category.php?cat=clas). <br>
+
+Datasets de [regression](https://sci2s.ugr.es/keel/category.php?cat=reg). <br>
+
 ## 1. Visages labelisés
 
 Aperçu du dataset (173 Mb) :
@@ -146,15 +150,6 @@ Exemple de plot en coloriant suivant l'intensité:
 
 <br>
 <br>
-
-## Pour encore plus de datasets 
-
-<p align="center">
-	[<b>classifications</b>](https://sci2s.ugr.es/keel/category.php?cat=clas) <br>
-
-	[<b>regression</b>](https://sci2s.ugr.es/keel/category.php?cat=reg) <br>
-
-	</p>
 
 # Traitement du langage naturel
 
