@@ -1,4 +1,3 @@
-![Capture d’écran 2021-05-24 à 10 50 54](https://user-images.githubusercontent.com/63207451/119322445-ed1d8200-bc7d-11eb-891b-15ad8a96d44b.png)
 <p align="center">
 	<img src="https://user-images.githubusercontent.com/63207451/119138957-c4f60f00-ba42-11eb-89fa-e999bb5d256a.png" alt="Haut de la page">
 	<p/>
