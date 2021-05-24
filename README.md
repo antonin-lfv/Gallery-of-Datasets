@@ -19,7 +19,6 @@
 - [**Time series**](#Time-Series)
 - [**Big Data**](#Big-Data)
 - [**Agriculture**](#Agriculture)
-- [**Images**](#Images)
 - [**Climat et météo**](#Climat-et-météo)
 
 
@@ -212,11 +211,6 @@ Aperçu :
 <img width="1210" alt="Capture d’écran 2021-05-21 à 16 54 37" src="https://user-images.githubusercontent.com/63207451/119157232-422a7f80-ba55-11eb-8c86-cc7fa64d920c.png">
 <p/>
 <p align="left"><a href="https://zenodo.org/record/2530634#.YKf_ZS8iuRs"><img src="https://user-images.githubusercontent.com/63207451/119182524-4d8ca380-ba73-11eb-8fb0-6e4a4c86d9c4.png" alt="Download" height="180"/></a></p>
-
-	
-<br/>
-
-# Images
 
 
 <br/>
