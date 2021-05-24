@@ -75,7 +75,7 @@ df = pd.read_csv('your/path/dataset.tsv', delimiter="\t")
 ```py
 import pandas as pd
 
-df = pd.read_csv('your/path/dataset.txt', delimiter="\t", , header = None)
+df = pd.read_csv('your/path/dataset.txt', delimiter="\t", header = None)
 
 ```
 
