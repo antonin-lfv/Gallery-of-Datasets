@@ -71,6 +71,16 @@ df = pd.read_csv('your/path/dataset.tsv', delimiter="\t")
 
 <br/>
 
+## Fichier txt
+```py
+import pandas as pd
+
+df = pd.read_csv('your/path/dataset.txt', delimiter="\t", , header = None)
+
+```
+
+<br/>
+
 ## Fichier dat
 ```py
 import numpy as np
@@ -135,6 +145,26 @@ Exemple de plot en coloriant suivant l'intensité:
 <p align="left"><a href="https://sci2s.ugr.es/keel/dataset.php?cod=75"><img src="https://user-images.githubusercontent.com/63207451/119182524-4d8ca380-ba73-11eb-8fb0-6e4a4c86d9c4.png" alt="Download" height="180"/></a></p>
 
 # Traitement du langage naturel
+
+## 1. Messages SMS spam
+
+Aperçu du dataset depuis le __"Link1"__ du tableau :
+
+<p align="center">
+<img width="1431" alt="Capture d’écran 2021-05-22 à 12 20 54" src="https://user-images.githubusercontent.com/63207451/119321624-20134600-bc7d-11eb-93df-aa026de08e67.png">
+	<p/>
+
+C'est un fichier texte qu'on manipule avec pandas comme ceci :
+
+```py
+df = pd.read_csv('your/path/SMSSpamCollection.txt', header = None, delimiter='\t')
+
+df.columns =['type', 'sms']
+df['type']=df['type'].astype(str)
+df['sms']=df['sms'].astype(str)
+```
+
+<p align="left"><a href="https://www.dt.fee.unicamp.br/~tiago/smsspamcollection/"><img src="https://user-images.githubusercontent.com/63207451/119182524-4d8ca380-ba73-11eb-8fb0-6e4a4c86d9c4.png" alt="Download" height="180"/></a></p>
 
 # Time series
 
