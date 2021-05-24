@@ -147,9 +147,12 @@ Exemple de plot en coloriant suivant l'intensité:
 <br>
 <br>
 
->Pour encore plus de datasets : <br>
->[**classifications**](https://sci2s.ugr.es/keel/category.php?cat=clas) <br>
->[**regression**](https://sci2s.ugr.es/keel/category.php?cat=reg) <br>
+## Pour encore plus de datasets 
+
+[**classifications**](https://sci2s.ugr.es/keel/category.php?cat=clas) <br>
+
+[**regression**](https://sci2s.ugr.es/keel/category.php?cat=reg) <br>
+
 
 # Traitement du langage naturel
 
