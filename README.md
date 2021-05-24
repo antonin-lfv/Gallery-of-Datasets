@@ -168,6 +168,16 @@ df['sms']=df['sms'].astype(str)
 
 # Time series
 
+## 1. Disques durs anomalies
+
+Aperçu des 5 premières colonnes sur 85 :
+
+![Capture d’écran 2021-05-24 à 14 11 43](https://user-images.githubusercontent.com/63207451/119346240-41cef600-bc9a-11eb-8c01-4f003b108725.png)
+
+Il a un dataset par année, pour accéder aux datasets il faut aller tout en bas de la page. Puis dans chaque dossier de chaque année il y a un fichier csv par jour.
+
+<p align="left"><a href="https://www.backblaze.com/b2/hard-drive-test-data.html"><img src="https://user-images.githubusercontent.com/63207451/119182524-4d8ca380-ba73-11eb-8fb0-6e4a4c86d9c4.png" alt="Download" height="180"/></a></p>
+
 # Big data
 
 # Agriculture
