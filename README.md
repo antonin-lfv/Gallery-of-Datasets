@@ -87,6 +87,10 @@ df = pd.read_table('your/path/dataset.dat', names=['x1','x2','x3'], sep=',' ,enc
 
 Aperçu du dataset (173 Mb) :
 
+<img width="499" alt="Capture d’écran 2021-05-24 à 10 09 41" src="https://user-images.githubusercontent.com/63207451/119317297-39fe5a00-bc78-11eb-9df7-9810359b4fd2.png">
+
+Il est composée de 5749 dossiers, qui contiennent chacun un ou plusieurs images d'une même personne. Par exemple ci-dessus le dossier Matt_Damon.
+
 <p align="left"><a href="http://vis-www.cs.umass.edu/lfw/"><img src="https://user-images.githubusercontent.com/63207451/119182524-4d8ca380-ba73-11eb-8fb0-6e4a4c86d9c4.png" alt="Download" height="180"/></a></p>
 
 ## 2. IMDb Datasets
