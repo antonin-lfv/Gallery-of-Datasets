@@ -123,6 +123,10 @@ Aperçu du dataset complet :
 <img width="408" alt="Capture d’écran 2021-05-22 à 18 24 12" src="https://user-images.githubusercontent.com/63207451/119233808-e9c5b180-bb2a-11eb-99bb-915d376301d8.png">
 
 Le dataset est détaillé dans le fichier __header__, dat1 et dat2 correspondent aux coordonnées des points x, y et class à la classe.
+Exemple de plot des bananes par classe :
+
+![Capture d’écran 2021-05-24 à 17 41 24](https://user-images.githubusercontent.com/63207451/119372157-4bb32200-bcb7-11eb-98b7-65de85c9c397.png)
+
 
 <p align="left"><a href="https://sci2s.ugr.es/keel/dataset.php?cod=182"><img src="https://user-images.githubusercontent.com/63207451/119182524-4d8ca380-ba73-11eb-8fb0-6e4a4c86d9c4.png" alt="Download" height="180"/></a></p>
 
