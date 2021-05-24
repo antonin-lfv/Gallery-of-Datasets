@@ -144,6 +144,13 @@ Exemple de plot en coloriant suivant l'intensité:
 
 <p align="left"><a href="https://sci2s.ugr.es/keel/dataset.php?cod=75"><img src="https://user-images.githubusercontent.com/63207451/119182524-4d8ca380-ba73-11eb-8fb0-6e4a4c86d9c4.png" alt="Download" height="180"/></a></p>
 
+<br>
+<br>
+
+>Pour encore plus de datasets : 
+>[classifications](https://sci2s.ugr.es/keel/category.php?cat=clas)
+>[regression](https://sci2s.ugr.es/keel/category.php?cat=reg)
+
 # Traitement du langage naturel
 
 ## 1. Messages SMS spam
