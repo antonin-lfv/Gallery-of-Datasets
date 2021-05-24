@@ -14,10 +14,12 @@
 
 # Moteur de recherches de Datasets
 
--[**Classification**](https://sci2s.ugr.es/keel/category.php?cat=clas)
--[**Regression**](https://sci2s.ugr.es/keel/category.php?cat=reg)
--[**Physique**](http://opendata.cern.ch)
--[**Climat**](https://www.ncdc.noaa.gov/data-access/quick-links)
+- [**Classification**](https://sci2s.ugr.es/keel/category.php?cat=clas)
+- [**Regression**](https://sci2s.ugr.es/keel/category.php?cat=reg)
+- [**Physique**](http://opendata.cern.ch)
+- [**Climat**](https://www.ncdc.noaa.gov/data-access/quick-links)
+
+<br/>
 
 # Categories
 
@@ -154,8 +156,8 @@ Exemple de plot en coloriant suivant l'intensité:
 
 <p align="left"><a href="https://sci2s.ugr.es/keel/dataset.php?cod=75"><img src="https://user-images.githubusercontent.com/63207451/119182524-4d8ca380-ba73-11eb-8fb0-6e4a4c86d9c4.png" alt="Download" height="180"/></a></p>
 
-<br>
-<br>
+<br/>
+<br/>
 
 # Traitement du langage naturel
 
