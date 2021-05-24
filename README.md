@@ -28,7 +28,6 @@
 - [**Time series**](#Time-Series)
 - [**Big Data**](#Big-Data)
 - [**Agriculture**](#Agriculture)
-- [**Climat et météo**](#Climat-et-météo)
 
 
 <br/>
@@ -221,10 +220,6 @@ Aperçu :
 <p/>
 <p align="left"><a href="https://zenodo.org/record/2530634#.YKf_ZS8iuRs"><img src="https://user-images.githubusercontent.com/63207451/119182524-4d8ca380-ba73-11eb-8fb0-6e4a4c86d9c4.png" alt="Download" height="180"/></a></p>
 
-
-<br/>
-
-# Climat et météo
 
 <br/>
 
