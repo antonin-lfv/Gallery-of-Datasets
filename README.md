@@ -12,7 +12,7 @@
 
 <br/>
 
-# Moteur de recherches de Datasets
+# Moteurs de recherches de Datasets
 
 - [**Classification**](https://sci2s.ugr.es/keel/category.php?cat=clas)
 - [**Regression**](https://sci2s.ugr.es/keel/category.php?cat=reg)
