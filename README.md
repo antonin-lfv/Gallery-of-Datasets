@@ -18,6 +18,7 @@
 - [**Regression**](https://sci2s.ugr.es/keel/category.php?cat=reg)
 - [**Physique**](http://opendata.cern.ch)
 - [**Climat**](https://www.ncdc.noaa.gov/data-access/quick-links)
+- [**Human Progress**](https://www.humanprogress.org/datasets/)
 
 <br/>
 
