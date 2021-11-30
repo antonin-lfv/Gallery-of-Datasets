@@ -52,7 +52,7 @@ df = ds.to_dataframe()
 ```py
 import pandas as pd
 
-df = pd.read_csv('your/path/dataset.csv')
+df = pd.read_csv('your/path/dataset.csv') # delim_whitespace=True si colonnes séparés par des espaces
 
 ```
 
@@ -63,7 +63,7 @@ df = pd.read_csv('your/path/dataset.csv')
 ```py
 import pandas as pd
 
-df = pd.read_excel('your/path/dataset.xls(x)')
+df = pd.read_excel('your/path/dataset.xls(x)') # delim_whitespace=True si colonnes séparés par des espaces
 
 ```
 
