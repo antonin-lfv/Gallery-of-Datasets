@@ -20,6 +20,7 @@
 - [**Climat**](https://www.ncdc.noaa.gov/data-access/quick-links)
 - [**Human Progress**](https://www.humanprogress.org/datasets/)
 - [**USA government datasets**](https://data.census.gov/table)
+- [**Grosse base de datasets**](https://github.com/awesomedata/awesome-public-datasets)
 
 <br/>
 
