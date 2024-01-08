@@ -21,6 +21,9 @@
 - [**Human Progress**](https://www.humanprogress.org/datasets/)
 - [**USA government datasets**](https://data.census.gov/table)
 - [**Grosse base de datasets**](https://github.com/awesomedata/awesome-public-datasets)
+- [**Kaggle**](https://www.kaggle.com/datasets)
+- [**Hugging Face**](https://huggingface.co/datasets)
+- [**Google Dataset search**](https://datasetsearch.research.google.com)
 
 <br/>
 
